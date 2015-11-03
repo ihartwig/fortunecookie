@@ -1,0 +1,7 @@
+# OS X Silliness
+.DS_Store
+
+# Latex Temp Files
+*.aux
+*.log
+
